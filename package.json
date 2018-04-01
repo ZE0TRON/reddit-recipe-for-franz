@@ -1,0 +1,12 @@
+{
+  "id": "reddit",
+  "name": "Reddit",
+  "version": "1.0.0",
+  "description": "Reddit",
+  "main": "index.js",
+  "author": "Bilge Çimen <cmpbilge@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.reddit.com/login"
+  }
+}
